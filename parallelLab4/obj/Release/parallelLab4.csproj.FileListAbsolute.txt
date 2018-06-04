@@ -1,0 +1,6 @@
+C:\Users\aleksandrbalaev\source\repos\parallelLab4\parallelLab4\bin\Release\parallelLab4.exe.config
+C:\Users\aleksandrbalaev\source\repos\parallelLab4\parallelLab4\bin\Release\parallelLab4.exe
+C:\Users\aleksandrbalaev\source\repos\parallelLab4\parallelLab4\bin\Release\parallelLab4.pdb
+C:\Users\aleksandrbalaev\source\repos\parallelLab4\parallelLab4\obj\Release\parallelLab4.csproj.CoreCompileInputs.cache
+C:\Users\aleksandrbalaev\source\repos\parallelLab4\parallelLab4\obj\Release\parallelLab4.exe
+C:\Users\aleksandrbalaev\source\repos\parallelLab4\parallelLab4\obj\Release\parallelLab4.pdb
